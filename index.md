@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# **蒟蒻欢乐大水团**的官网
 
-You can use the [editor on GitHub](https://github.com/ChristinaLiang1000/juruohuanledashuituan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 宣言：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**蒟蒻欢乐大水团，欢迎你的加入ヾ(≧▽≦*)o！**
 
-### Markdown
+这里聚集了各类蒟蒻，所以不管你是傻傻小牛还是灰名蒟蒻，我们都欢迎！由于大家都很懂作为一名蒟蒻来到洛谷那种五味陈杂的心情，所以我建立了这个地方。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>在这里，你们可以自由的交流，不懂得题也可以找别人帮助，加入QQ群发出自己的评论.
+>
+>还可以使用Zoom面对面讨论。尤其是，在这里大家是平等的，不会某某题也不会被嘲笑。
 
-```markdown
-Syntax highlighted code block
+## 公告：
 
-# Header 1
-## Header 2
-### Header 3
+### 友链：
 
-- Bulleted
-- List
+- [xiaozeng的团队](https://www.luogu.com.cn/team/25418)
 
-1. Numbered
-2. List
+- [我们是蒟蒻](https://www.luogu.com.cn/team/25525)
 
-**Bold** and _Italic_ and `Code` text
+### 信息：
 
-[Link](url) and ![Image](src)
-```
+>QQ群号：798615219
+>
+>Zoom会议号：3665070696；
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**需要使用会议室时，请私信 ChristinaLiang ；**
 
-### Jekyll Themes
+>Zoom是一个高大上的会议软件，可以在各种系统上下载，还能电话拨入；
+>
+>下载Zoom：[下载](https://zoom.com.cn/s/3665070696) ；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristinaLiang1000/juruohuanledashuituan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+团队题目由公众提供，如果提供两道及以上的优质题目，可以被提升到管理者，拥有管理员权限（负责人太蒟蒻不会用压缩包）；
 
-### Support or Contact
+**_警告：嘲笑别人的成员会被踢出团队！！！开口时请谨慎一点_**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 招募信息：
+
+- _0/5 个数据员_
+
+- _0/5 个出题员_
+
+- _2/5 个管理员_
+
+**想要参加招募的人可以私信现有的管理，由管理审核**
+
+### 任务：
+
+- _团队数据制造器_ 奖励：获得全员膜拜，下个月月赛出题权力和永久管理员身份
+
+- _团队官网_ 奖励：获得全员膜拜，下个月月赛出题权力和永久管理员身份
+
+- _三次月赛_ 奖励：获得全员膜拜和永久管理员身份
+
+- _五套题_ 奖励：获得全员膜拜，下个月月赛出题权力和一个月的管理员身份
+
+完成任务可以私信**ChristinaLiang**，**ChristinaLiang**会审核并公布你的光大事迹~
+
+完成了 1/4 个任务
+
+**说了这么多，还不快一点加入[我们](https://www.luogu.com.cn/team/26129)！**
