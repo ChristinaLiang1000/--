@@ -16,7 +16,7 @@
 
 - [xiaozeng的团队](https://www.luogu.com.cn/team/25418)
 
-- [我们是蒟蒻](https://www.luogu.com.cn/team/25525)
+- [我们是蒟蒻！！！](https://www.luogu.com.cn/team/25525)
 
 ### 信息：
 
